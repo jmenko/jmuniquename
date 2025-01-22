@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is D6F0-E10F
+
+ Directory of C:\Users\Julian\Documents\01_SUTD\02_Term_2\Bootcamp\Directory\jmuniquename
+
+22/01/2025  14:22    <DIR>          .
+22/01/2025  14:12    <DIR>          ..
+22/01/2025  14:22                 0 list.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  832,151,994,368 bytes free
